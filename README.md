@@ -1,6 +1,6 @@
 
-[![linkedin badge](https://img.shields.io/badge/Akanksha_Singh-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/jominjle/)
-[![twitter badge](https://img.shields.io/badge/@akacodegenie-30302f?style=flat&logo=twitter)](https://twitter.com/jominjle)
+[![linkedin badge](https://img.shields.io/badge/Jominjle-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/jominjle/)
+[![twitter badge](https://img.shields.io/badge/@Jominjle-30302f?style=flat&logo=twitter)](https://twitter.com/jominjle)
 
 
 ### Hi there 👋
