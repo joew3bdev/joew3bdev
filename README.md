@@ -4,7 +4,7 @@
 
 
 ### Hi there 👋
-- 🔭 I’m currently working on @impress.ai as Lead Software engineer
+- 🔭 I’m currently working on impress.ai as Lead Software engineer
 - Adventurer
 - Traveler
 - Cricketer
