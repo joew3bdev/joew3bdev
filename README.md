@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello! 👋
 
-<!--
-**joew3bdev/joew3bdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Andy. You can mostly find me on [Twitter](https://twitter.com/andypiper), where I work on the [Developer Relations team](https://twitter.com/twitterdev).
 
-Here are some ideas to get you started:
+I also sometimes write things on [DEV](https://dev.to/andypiper), [Medium](https://andypiper.medium.com), or on [my own website](https://andypiper.co.uk).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: they/them
+- 🔭 I’m currently working on supporting developers using the Twitter APIs, particularly [![v2](https://img.shields.io/endpoint?url=https%3A%2F%2Ftwbadges.glitch.me%2Fbadges%2Fv2)](https://developer.twitter.com/en/docs/twitter-api)
+- 💬 I help to look after the [Twitter Developer Community forums](https://twittercommunity.com), and you will also find me answering questions on [Stack Overflow](https://stackoverflow.com/users/262478/andy-piper).
+- 🌱 I’m currently learning .NET Core and Azure... when I have time!
+- Favorite editor: VS Code 
+- First computer: Acorn Electron
+
+
+[![Twitter](https://img.shields.io/badge/andypiper%20-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/andypiper) [![YouTube](https://img.shields.io/badge/andypiperuk%20-%23FF0000.svg?&style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/andypiperuk) <img src="https://img.shields.io/badge/LostRinkitink%20-%23107C10.svg?&style=flat-square&logo=Xbox&logoColor=white"/> 
+
+<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andypiper&layout=compact" />&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andypiper&count_private=true&show_icons=true&theme=default&hide_rank=true&disable_animations=true&custom_title=Stats" /></div>
