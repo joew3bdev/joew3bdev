@@ -1,12 +1,12 @@
 # Hi, I’m Jo (Jomin George Paul) 👋
 
-Engineering Head · Full‑stack (Django + React) · Building scalable, human‑centric products
+Engineering Head · Full-stack (Django + React) · Building scalable, human-centric products
 
 <p align="left">
-  <a href="https://github.com/joew3bdev"><img src="https://komarev.com/ghpvc/?username=<your-username>&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /></a>
-  <a href="https://www.linkedin.com/in/joew3bdev"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:jominjle@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-181717?logo=gmail&logoColor=white"></a>
-  <a href="https://x.com/jominjle"><img alt="X" src="https://img.shields.io/badge/Follow-000000?logo=x&logoColor=white"></a>
+  <a href="https://github.com/joew3bdev"><img src="https://komarev.com/ghpvc/?username=joew3bdev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /></a>
+  <a href="https://www.linkedin.com/in/jominjle/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="mailto:jomin.george.paul@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-181717?logo=gmail&logoColor=white"></a>
+  <a href="https://x.com/jomin_george_paul"><img alt="X" src="https://img.shields.io/badge/Follow-000000?logo=x&logoColor=white"></a>
   <a href="https://instagram.com/jomin_george_paul"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"></a>
 </p>
 
@@ -14,10 +14,10 @@ Engineering Head · Full‑stack (Django + React) · Building scalable, human‑
 
 ## 🧭 About me
 
-* 🧑‍💻 I lead engineering teams, ship products end‑to‑end, and obsess over DX & reliability.
-* 🧱 Favorite stack: **Django / Python** on the backend, **React / Javascript** on the frontend.
-* 📈 Interests: product architecture, cost/perf tuning, AI‑assisted workflows, developer tooling.
-* 🏍️ Off‑work: long‑distance rides, travel planning, and content creation.
+* 🧑‍💻 I lead engineering teams, ship products end-to-end, and obsess over DX & reliability.
+* 🧱 Favorite stack: **Django / Python** on the backend, **React / TypeScript** on the frontend.
+* 📈 Interests: product architecture, cost/perf tuning, AI-assisted workflows, developer tooling.
+* 🏍️ Off-work: long-distance rides, travel planning, and content creation.
 * 🌏 Based in **India** (often traveling).
 
 > *“Simple first, scalable always.”*
@@ -26,7 +26,7 @@ Engineering Head · Full‑stack (Django + React) · Building scalable, human‑
 
 ## 🔭 Currently
 
-* Designing **builder tools** that let non‑engineers create complex workflows.
+* Designing **builder tools** that let non-engineers create complex workflows.
 * Hardening CI/CD, quality gates, and performance budgets.
 * Mentoring devs on **clean architecture**, testing, and readable code.
 
@@ -67,51 +67,45 @@ Engineering Head · Full‑stack (Django + React) · Building scalable, human‑
 
 ## 🧩 Highlights
 
-* Built **drag‑and‑drop report/builder UIs** with print‑perfect PDF output.
-* Shipped **AI‑assisted screening** features at scale (high concurrency & cost‑aware design).
-* Stood up **secure file pipelines** (S3‑based integrations), and optimized media workloads.
-* Love turning repeated ops requests into **self‑serve tools**.
+* Built **drag-and-drop report/builder UIs** with print-perfect PDF output.
+* Shipped **AI-assisted screening** features at scale (high concurrency & cost-aware design).
+* Stood up **secure file pipelines** (S3-based integrations), and optimized media workloads.
+* Love turning repeated ops requests into **self-serve tools**.
 
 ---
 
-## 📌 Featured projects
+### 🧭 Professional Focus
 
-> Replace `<your-username>` and repo names with yours.
-
-<a href="https://github.com/<your-username>/<repo-one>">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=<your-username>&repo=<repo-one>&theme=default&border_color=E5E7EB" />
-</a>
-<a href="https://github.com/<your-username>/<repo-two>">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=<your-username>&repo=<repo-two>&theme=default&border_color=E5E7EB" />
-</a>
+* **Leadership:** Building high-performing, autonomous engineering teams.
+* **Architecture:** Designing maintainable and observable systems.
+* **Mentorship:** Helping developers grow through reviews, code clarity, and context-sharing.
+* **Delivery:** Driving fast, reliable product releases with measurable impact.
 
 ---
 
 ## 📊 GitHub stats
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&count_private=true&hide_title=true&hide_border=false" />
-  <img height="160" src="https://streak-stats.demolab.com?user=<your-username>&hide_border=false" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=joew3bdev&show_icons=true&count_private=true&hide_title=true&hide_border=false" />
+  <img height="160" src="https://streak-stats.demolab.com?user=joew3bdev&hide_border=false" />
 </p>
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&langs_count=8" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joew3bdev&layout=compact&langs_count=8" />
 </p>
 
-> If these cards don’t render, your username might be new/private or the third‑party service is rate‑limited. They’ll still work once public.
+---
+
+## 📝 Writing & Talks
+
+* <a href="https://medium.com/@jomin_george_paul">Medium</a> · <a href="https://hashnode.com/@jomin_george_paul">Hashnode</a>
+* Topics: scalable UI systems, print-quality web, cost modeling, and team practices.
 
 ---
 
-## 📝 Writing & talks
+## 🤝 Let’s Connect
 
-* <a href="https://medium.com/@<your-handle>">Medium</a> · <a href="https://hashnode.com/@<your-handle>">Hashnode</a>
-* Favorite topics: scalable UI systems, print‑quality web, cost modeling, team practices.
-
----
-
-## 🤝 Let’s connect
-
-* 💼 LinkedIn: <a href="https://www.linkedin.com/in/<your-linkedin>">@<your-linkedin></a>
-* 📨 Email: <your-email>
+* 💼 LinkedIn: <a href="https://www.linkedin.com/in/jominjle/">@jominjle</a>
+* 📨 Email: [jominjle@gmail.com](mailto:jomin.george.paul@gmail.com)
 * 📸 Instagram: <a href="https://instagram.com/jomin_george_paul">@jomin_george_paul</a>
 
 ---
@@ -120,25 +114,14 @@ Engineering Head · Full‑stack (Django + React) · Building scalable, human‑
 
 If my work helps you, consider buying me a coffee:
 
-<a href="https://www.buymeacoffee.com/<your-handle>"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black" /></a>
+<a href="https://www.buymeacoffee.com/jomin_george_paul"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black" /></a>
 
 ---
 
 <details>
 <summary>✨ Fun extra (click to expand)</summary>
 
-* I’ve clocked serious miles on a Triumph Tiger 🐯 and love planning multi‑state rides.
+* I’ve clocked serious miles on a Triumph Tiger 🐯 and love planning multi-state rides.
 * I enjoy turning trip plans into shareable itineraries & tools.
 
 </details>
-
----
-
-### Quickstart
-
-1. Create a repo named **`<your-username>`** (exactly your GitHub handle).
-2. Add a file named `README.md` with this content.
-3. Replace all placeholders like `<your-username>`, `<repo-one>`, `<your-email>`.
-4. Commit & push — your profile README will appear on your GitHub profile.
-
-> Want a more minimal version? Delete sections you don’t need (stats, pins, or badges) and keep **About me**, **Tech**, and **Projects**.
