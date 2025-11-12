@@ -15,7 +15,7 @@ Engineering Head · Full‑stack (Django + React) · Building scalable, human‑
 ## 🧭 About me
 
 * 🧑‍💻 I lead engineering teams, ship products end‑to‑end, and obsess over DX & reliability.
-* 🧱 Favorite stack: **Django / Python** on the backend, **React / TypeScript** on the frontend.
+* 🧱 Favorite stack: **Django / Python** on the backend, **React / Javascript** on the frontend.
 * 📈 Interests: product architecture, cost/perf tuning, AI‑assisted workflows, developer tooling.
 * 🏍️ Off‑work: long‑distance rides, travel planning, and content creation.
 * 🌏 Based in **India** (often traveling).
